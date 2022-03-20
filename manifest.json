@@ -1,0 +1,11 @@
+{
+    "Name": "AdditionalAquariumDecorations",
+    "Author": "StarAmy",
+    "Version": "1.0",
+    "Description": "Enables new fish tank / aquarium decorations via content patcher",
+    "UniqueID": "StarAmy.AdditionalAquariumDecorations",
+    "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher",
+    "MinimumVersion": "1.20.0"
+   }
+}

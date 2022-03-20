@@ -1,0 +1,137 @@
+{
+    "Format": "1.23.0",
+    "Changes": [
+      {
+      "Action": "EditImage",
+      "LogName": "StarAmy Aquarium",
+      "Target": "LooseSprites/AquariumFish",
+      "FromFile": "assets/staramydecorationdata.png",
+        "ToArea": { "X": 0, "Y": 1920, "Width": 480, "Height": 304 },
+      },
+      { 
+     "LogName": "StarAmy Decoration Data",   
+     "Action": "EditData",
+     "Target": "Data/AquariumFish",
+     "Entries": { 
+         "157": "800/static",  //White Algae
+         "153": "801/static",  //Green Algae
+         "297": "802/static",  //Grass Starter
+         "771": "803/static",  //Fiber
+         "169": "804/static",  //Driftwood
+         "709": "805/static",  //Hardwood
+         "388": "806/static",  //Wood
+         "572": "807/static",  //Soapstone
+         "571": "808/static",  //Limestone
+         "559": "809/static",  //Pyrite
+         "560": "810/static",  //Ocean Stone
+         "561": "811/static",  //Ghost Crystal
+         "576": "812/static",  //Slate
+         "577": "813/static",  //Fairy Stone
+         "578": "814/static",  //Star Shards
+         "551": "815/static",  //Lunarite
+         "550": "816/static",  //Kyanite
+         "549": "817/static",  //Jagoite
+         "548": "818/static",  //Jamborite
+         "547": "819/static",  //Helvite
+         "80": "820/static",  //Quartz
+         "82": "821/static",  //Fire Quartz
+         "60": "822/static",  //Emerald
+         "64": "823/static",  //Ruby
+         "72": "824/static",  //Diamond
+         "62": "825/static",  //Aquamarine
+         "66": "826/static",  //Amethyst
+         "68": "827/static",  //Topaz
+         "70": "828/static",  //Jade
+         "84": "829/static",  //Frozen Tear
+         "86": "830/static",  //Earth Crystal
+         "538": "831/static",  //Alamite
+         "539": "832/static",  //Bixite
+         "540": "833/static",  //Baryte
+         "541": "834/static",  //Aerinite
+         "542": "835/static",  //Calcite
+         "543": "836/static",  //Dolomite
+         "544": "837/static",  //Esperite
+         "545": "838/static",  //Fluorapatite
+         "546": "839/static",  //Geminite
+         "573": "840/static",  //Hematite
+         "574": "841/static",  //Mudstone
+         "330": "842/static",  //Clay
+         "74": "843/static",  //Prismatic Shards
+         "553": "844/static",  //Neptunite
+         "554": "845/static",  //Lemon Stone
+         "552": "846/static",  //Malachite
+         "562": "847/static",  //Tigerseye
+         "563": "848/static",  //Jasper
+         "564": "849/static",  //Opal
+         "565": "850/static",  //Fire Opal
+         "566": "851/static",  //Celestine
+         "568": "852/static",  //Sandstone
+         "570": "853/static",  //Basalt
+         "569": "854/static",  //Granite
+         "567": "855/static",  //Marble
+         "558": "856/static",  //Thunder Egg
+         "557": "857/static",  //Petrified Slime
+         "556": "858/static",  //Orpiment
+         "555": "859/static",  //Nekoite
+         "692": "860/static",  //Lead Bobber
+         "691": "861/static",  //Barbed Hook
+         "686": "862/static",  //Spinner
+         "687": "863/static",  //Dressed Spinner
+         "703": "864/static",  //Magnet
+         "685": "865/static",  //Bait - Crab Pot
+         "828": "866/static",  //Mummified Frog
+         "116": "867/static",  //Dried Starfish
+         "117": "868/static",  //Anchor
+         "392": "869/static",  //Nautilus Shell
+         "394": "870/static",  //Rainbow Shell
+         "242": "871/static",  //Dish O' the Sea --> Wheel
+         "172": "872/static",  //Soggy Newspaper -> Message in a Bottle
+         "166": "873/static",  //Treasure Chest
+         "118": "874/static",  //Glass Shards
+         "825": "876/static",  //Snake Skull
+         "827": "877/static",  //Mummified Bat
+         "848": "878/static",  //Cinder Shard
+         "575": "879/static",  //Obsidian
+         "770": "880/static",  //Mixed Seeds -> Weeds1
+         "496": "881/static",  //Summer Seeds -> Weeds2
+         "275": "882/static",  //Artifact Trove
+         "109": "883/static",  //Ancient Sword
+         "773": "884/static",  //Life Elixer
+         "917": "886/static",  //Qi seasoning
+         "100": "887/static",  //Chipped Amphora
+         "101": "888/static",  //Arrowhead
+         "772": "889/static",  //Oil of Garlic
+         "191": "890/static",  //Ornate Necklace
+         "104": "891/static",  //Elvish Jewelry
+         "251": "892/static",  //Tea Sapling
+         "93": "893/static",  //Torch -> Lantern
+         "106": "894/static",  //Ornamental Fan
+         "461": "895/static",  //Decorative Pot
+         "115": "896/static",  //Prehistoric Tool
+         "832": "897/static",  //Pineapple
+         "088": "898/static",  //Coconut
+         "873": "899/static",  //Pina Colada
+         "586": "900/static",  //Nautilus Fossil 
+         "587": "901/static",  //Amphibian Fossil
+         "588": "902/static",  //Palm Fossil
+         "589": "903/static",  //Trilobite
+         "581": "904/static",  //Prehistoric Skull
+         "582": "905/static",  //Skeletal Hand
+         "820": "906/static",  //Fossilized Skull
+         "460": "907/static",  //Mermaid's Pendant
+         "808": "908/static",  //Void Ghost Pendant
+         "797": "909/static",  //Pearl
+         "120": "910/static",  //Prehistoric Handaxe
+         "497": "911/static",  //Fall Seeds -> Brown Weed
+         "495": "912/static",  //Spring Seeds -> Cauliflower
+         "328": "913/static",  //Wood Floor --> Open Chest
+         "535": "914/static",  //Geode
+         "536": "915/static",  //Frozen Geode
+         "537": "916/static",  //Magma Geode
+         "749": "917/static",  //Omni Geode
+         "259": "918/static",  //Fiddlehead Fern
+         "840": "919/static",  //Rustic Plank Floor --> Closed Chest
+         }
+  }
+  ]
+}
